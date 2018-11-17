@@ -14,8 +14,8 @@ Tecnologias utilizadas
 
 ### Comandos do GIT utilizados
 
-´´´sh
+```sh
 
   $ git config
 
-´´´
+```
