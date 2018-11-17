@@ -19,3 +19,6 @@ Tecnologias utilizadas
   $ git config
 
 ```
+### Logo do GIT
+
+![Tela](GitHub-logo.png)
